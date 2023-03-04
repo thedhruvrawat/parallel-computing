@@ -11,3 +11,5 @@ This repository contains all the laboratory coursework for the course **CS F422:
 | 1   | Caching                    | [Lab 1](lab-01/labsheet.pdf) | 4 Feb 2023  |
 | 2   | POSIX Threads (`pthreads`) | [Lab 2](lab-02/labsheet.pdf) | 11 Feb 2023 |
 | 3   | OpenMP                     | [Lab 3](lab-03/labsheet.pdf) | 21 Feb 2023 |
+| 4   | MPI                        | [Lab 4](lab-04/labsheet.pdf) | 28 Feb 2023 |
+| 5   | Apache Hadoop              | [Lab 5](lab-05/labsheet.pdf) | 4 Mar 2023  |
